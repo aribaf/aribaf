@@ -1,8 +1,7 @@
 ## About Me
 
-I am Ariba Faryad, a Software Engineer with a strong interest in Artificial Intelligence, Machine Learning, and Web Development. My focus lies in building practical AI-powered solutions and LLM Research.
-
-## 🌐 Socials:
+Software engineer building practical AI/LLM systems. Exploring AI safety and model forensics research.
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ariba-f-944391238) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aribafaryad@gmail.com) 
 
 # Tech Stack:
